@@ -23,6 +23,23 @@ When you test API POST, PUT, and DELETE routes in Insomnia,Then you are able to 
 
 ## SCREENSHOT
 
+1. GET request for category
+![screenshot](./assets/images/GET.png)
+
+2. GET request for fetching one category by id
+![screenshot](./assets/images/GET%20BY%20ID.png)
+
+3. PUT request for category
+
+![screenshot](./assets/images/PUT.png)
+
+4. POST request for category
+
+![screenshot](./assets/images/POST.png)
+
+5. DELETE request for category
+
+![screenshot](./assets/images/DELETE.png)
 
 ## WALKTHROUGH VIDEO
 
