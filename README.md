@@ -19,7 +19,9 @@ When you test API POST, PUT, and DELETE routes in Insomnia,Then you are able to 
 
 ## INSTALLATION
 
-1.Insomnia needed to be installed to test the app.
+1. Insomnia is installed to test the app.
+
+2. mysql is installed using npm i mysql2. 
 
 ## SCREENSHOT
 
@@ -30,15 +32,12 @@ When you test API POST, PUT, and DELETE routes in Insomnia,Then you are able to 
 ![screenshot](./assets/images/GET%20BY%20ID.png)
 
 3. PUT request for category
-
 ![screenshot](./assets/images/PUT.png)
 
 4. POST request for category
-
 ![screenshot](./assets/images/POST.png)
 
 5. DELETE request for category
-
 ![screenshot](./assets/images/DELETE.png)
 
 ## WALKTHROUGH VIDEO
