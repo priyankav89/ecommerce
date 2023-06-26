@@ -26,6 +26,7 @@ When you test API POST, PUT, and DELETE routes in Insomnia,Then you are able to 
 
 ## WALKTHROUGH VIDEO
 
+https://github.com/priyankav89/ecommerce/assets/127457597/e2e4596a-2e43-4762-8b62-83f548def937
 
 
 ## TESTING
